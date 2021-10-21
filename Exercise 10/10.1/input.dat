@@ -1,0 +1,12 @@
+numberofCity				32	
+TSP_dimensionality			2
+geometry				1	
+	
+subStepTemperature			0.1
+initialTemperature			70
+finalTemperature			0
+stepsperTemperature			50000
+
+pairPermutationProb			0.15
+contiguousPermutationProb		0.20
+inversionProb				0.30
