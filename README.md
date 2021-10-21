@@ -3,7 +3,7 @@
 <div class="alert alert-info" role="alert">
  
   <b>Note:</b> <br>
-  First of all I want to say that during the loading of this repository I had not few problems: in particular I had problems of loading due to too
+  First of all I want to say that during the loading of this repository I had not few problems: in particular I had problems with loading due to too
   big files (size greater than 25 MB); these files contain results of more expensive simulations that I tried to do or, as in the case of exercise 10,    
   contain animations that I wanted to show in jupyter-notebooks.
   As a result, the same notebooks do not appear on `Github` as I would have liked; in fact there are missing parts that I cannot understand, such as the 
