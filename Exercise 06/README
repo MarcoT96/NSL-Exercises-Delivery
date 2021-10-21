@@ -1,0 +1,14 @@
+#######################################
+##############EXERCISE 06##############
+#######################################
+
+The folder contains one subfolder related to the single 
+point of the exercise.
+In this folder is present a makefile: if deemed 
+appropriate code the 'make' command to generate the executable
+'Monte_Carlo_ISING_1D.exe'; otherwise, folders already contain simulation 
+results saved to files typically in .dat format.
+In this case I save the results for the various temperatures
+in appropriate named subfolders, each with its own parameters file 'input.dat'.
+The comment on the results is contained in the 
+jupyter-notebook named 'Numerical Exercises 6.ipynb'
