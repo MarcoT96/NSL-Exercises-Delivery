@@ -1,0 +1,12 @@
+#######################################
+##############EXERCISE 03##############
+#######################################
+
+The folder contains one subfolder related to the single 
+point of the exercise.
+In this folder there is a makefile: if deemed 
+appropriate code the 'make' command to generate the executable
+'main.exe'; otherwise, folders already contain simulation 
+results saved to files typically in .dat format.
+The comment on the results is contained in the 
+jupyter-notebook named 'Numerical Exercises 3.ipynb'
