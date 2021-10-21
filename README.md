@@ -13,6 +13,10 @@
 </div>
 
 
+
+
+
+
 This repository contains the exercises solved during the Numerical Simulation Laboratory course 
 that I attended in the second year of my Master’s degree in Physics at the University of Milan.
 Each of the folders corresponds to a single exercise, has self-explanatory name, and contains both `C++` codes, and `jupyter-notebooks`
