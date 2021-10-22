@@ -9,7 +9,7 @@ folders already contain simulation results saved to files typically in .dat form
 In turn, each of these sub-folders contains three more, related to the three phases of the simulated Argon system: *solid*, *liquid* and *gas*. <br>
 In particular, I would like to highlight the following issues:
 
-- folder `04.2` contains only the code updated with the implementation of the **blocking method**, I did not do any simulation here.
+- folder `04.2` contains only the code updated with the implementation of the **blocking method**, I did not run any simulation here.
 - folder `04.3` contains an additional fourth sub-folder, called `dt_reduced`, in which I saved the results obtained by decreasing by a factor of 10 the MD integration time step *dt*; this reduction has led to heavier simulations and consequently files too large to be uploaded to `GitHub`. In particular, `dt_reduced/solid`, `dt_reduced/liquid` and `dt_reduced/gas` lack files related to the instantaneous values of the observables (output_epot.dat, output_ekin.dat, output_etot.dat and output_temp.dat). If you need these files for any reason, please contact me. However, all C++ codes are able to generate these files.
 - folder `Optional Exercise` contains the data that I will use for the comparison between MD and MC Argon simulations, and include the calculation of pressure and g(r) in the best equilibrium conditions that I managed to obtain for the three phases.
 
