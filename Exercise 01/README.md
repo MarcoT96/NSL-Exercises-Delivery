@@ -3,7 +3,7 @@
 <br>
 The folder contains three subfolders related to the three points of the exercise.<br>
 
-In each of this folder there is a makefile: if deemed appropriate download the C++ files
+In each of these folders there is a makefile: if deemed appropriate download the C++ files
 and code the `make` command to generate the executable <strong>'main.exe'</strong>; otherwise,
 folders already contain simulation results saved to files typically in .dat format.<br>
 The comment on the results is contained in the jupyter-notebook named <strong>'Numerical Exercises 1.ipynb'</strong>.<br>
