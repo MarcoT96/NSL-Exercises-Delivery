@@ -9,10 +9,3 @@ folders already contain simulation results saved to files typically in .dat form
 The comment on the results is contained in the jupyter-notebook named <strong>'Numerical Exercises 8.ipynb'</strong>.<br>
 This notebook does not appear in full form when viewed through `GitHub`: download the jupyter file and
 open it locally to see <em>colors</em>, <em>titles</em>, <em>equations</em> and <em>graphs</em> correctly.
-
-In each of this folder there is a makefile: if deemed 
-appropriate code the 'make' command to generate the executable
-'main.exe' ; otherwise, folders
-already contain simulation results saved to files typically in .dat.
-The comment on the results is contained in the 
-jupyter-notebook named 'Numerical Exercises 8.ipynb'
