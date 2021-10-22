@@ -1,4 +1,4 @@
-#### Exercise 01
+## Exercise 01
 
 The folder contains three subfolders related to the three points of the exercise.
 In each of this folder there is a makefile: if deemed appropriate download the C++ files
