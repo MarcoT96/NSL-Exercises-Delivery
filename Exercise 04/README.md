@@ -4,7 +4,7 @@
 The folder contains four subfolders related to the four points of the exercise.<br>
 
 In each of these folders there is a makefile: if deemed appropriate download the C++ files
-and code the `make` command to generate the executable <strong>'main.exe'</strong>; otherwise,
+and code the `make` command to generate the executable <strong>'MolDyn_NVE.exe'</strong>; otherwise,
 folders already contain simulation results saved to files typically in .dat format.<br>
 In turn, each of these sub-folders contains three more, related to the three phases of the simulated Argon system: *solid*, *liquid* and *gas*. <br>
 In particular, I would like to highlight the following issues:
