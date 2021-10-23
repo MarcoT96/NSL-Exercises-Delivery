@@ -2,7 +2,7 @@
 
 <div class="alert alert-info" role="alert">
  
-  <b>Note:</b> <br>
+  <b>Note</b> <br>
   I had problems with loading due to the presence of big files (size greater than <strong>25 MB</strong>) in my local repository; these files contain results of 
   more expensive simulations that I tried to do or, as in the case of Exercise 10, contain animations that I wanted to show in jupyter-notebooks.
   As a result, the notebooks do not appear on `Github` as I would have liked; in fact there are missing parts, such as the titles of the various paragraphs.
@@ -38,9 +38,22 @@ The main themes of each exercise are summarised below.
 
 <div class="alert alert-info" role="alert">
  
-  <b>Note:</b> <br>
+  <b>Note</b> <br>
   The exercises that require the use of the random number generator adopted in the course refer to the files contained 
   in the folder `Parallel Random Numbers Genetor` (Primes and seed.in files), which must therefore be necessarily present
   in order to call the command `make` and compile executables (typically main.cpp files).
+    
+</div>
+
+<br>
+<br>
+
+<div class="alert alert-info" role="alert">
+ 
+  <b>INFO</b> <br>
+  I strongly suggest **not restart the kernel** of jupyter-notebooks once downloaded, except in cases of extreme necessity.
+  Instead I recommend running only the very first two Python code cells, which allow **to hide** the Python codes that follow and display the images in the center   
+  of the Notebook. <br>
+  In this way the reading of the jupyter-notebook is more orderly.
     
 </div>
