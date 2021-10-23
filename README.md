@@ -3,22 +3,18 @@
 <div class="alert alert-info" role="alert">
  
   <b>Note:</b> <br>
-  First of all I want to say that during the loading of this repository I had not few problems: in particular I had problems with loading due to too
-  big files (size greater than 25 MB); these files contain results of more expensive simulations that I tried to do or, as in the case of exercise 10,    
-  contain animations that I wanted to show in jupyter-notebooks.
-  As a result, the same notebooks do not appear on `Github` as I would have liked; in fact there are missing parts that I cannot understand, such as the 
-  titles of the various paragraphs.
-  For this reason, in addition to reporting it here, I remain available at the examination to show the real notebooks as I thought.
+  I had problems with loading due to the presence of big files (size greater than <strong>25 MB</strong>) in my local repository; these files contain results of 
+  more expensive simulations that I tried to do or, as in the case of exercise 10, contain animations that I wanted to show in jupyter-notebooks.
+  As a result, the notebooks do not appear on `Github` as I would have liked; in fact there are missing parts, such as the titles of the various paragraphs.
+  I tried to report any issues related to this kind of thing in the various files README.md present in each of the folders related to the delivered exercises:
+  in case of problems, consult first those and eventually me at a later time.
     
 </div>
 
+<br>
 
-
-
-
-
-This repository contains the exercises solved during the Numerical Simulation Laboratory course 
-that I attended in the second year of my Master’s degree in Physics at the University of Milan.
+This repository contains the exercises solved during the Numerical Simulation Laboratory course that I attended in the second year of
+my Master’s degree in Physics at the University of Milan. <br>
 Each of the folders corresponds to a single exercise, has self-explanatory name, and contains both `C++` codes, and `jupyter-notebooks`
 in which the results obtained are presented and commented.
 
@@ -36,6 +32,9 @@ The main themes of each exercise are summarised below.
 - `Exercise 10`: TSP via Simulated Annealing & Intro to MPI
 - `Exercise 11`: Intro to Feed Forward Neural Networks for Regression problems 
 - `Exercise 12`: Intro to Deep Neural Networks for Classification problems
+
+
+<br>
 
 <div class="alert alert-info" role="alert">
  
