@@ -8,7 +8,8 @@ and code the `make` command to generate the executable <strong>'main.exe'</stron
 folders already contain simulation results saved to files typically in .dat format. <br>
 
 The explanation of the C++ classes I have created is present in part in the jupyter-notebook
-and in more details in TSP.h and TSP.cpp. I also produced two animations (gift files) related to the optimization 
+and in more details in TSP.h and TSP.cpp. 
+I also produced two animations (gift files) related to the optimization 
 of the best path between cities with Simulated Annealing in folder 10.1: they are very nice but for size reasons,
 I could not upload them to this repository and always for reasons related to file size they are not visible even in the jupyter-notebook. <br>
 
