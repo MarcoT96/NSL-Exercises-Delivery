@@ -6,7 +6,7 @@
   I had problems with loading due to the presence of big files (size greater than <strong>25 MB</strong>) in my local repository; these files contain results of 
   more expensive simulations that I tried to do or, as in the case of Exercise 10, contain animations that I wanted to show in jupyter-notebooks.
   As a result, the notebooks do not appear on `Github` as I would have liked; in fact there are missing parts, such as the titles of the various paragraphs.
-  I tried to report any issues related to this kind of thing in the various files README.md present in each of the folders related to the delivered exercises:
+  I tried to report any issues related to this kind of thing in the various README.md files present in each of the folders related to the delivered exercises:
   in case of problems, consult first those and eventually me at a later time.
     
 </div>
