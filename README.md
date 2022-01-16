@@ -52,8 +52,8 @@ The main themes of each exercise are summarised below.
  
   <b>INFO</b> <br>
   I strongly suggest **not restart the kernel** of jupyter-notebooks once downloaded, except in cases of extreme necessity.
-  Instead I recommend running only the very first two Python code cells, which allow **to hide** the Python codes that follow and display the images in the center   
-  of the Notebook. <br>
+  Instead I recommend running only the very first two Python code cells, which allow **to hide** the Python codes that follow 
+  and display the images in the center of the Notebook. <br>
   In this way the reading of the jupyter-notebook is more orderly.
   <br>
   **Once I take the exam, I will remove all the Jupyter Notebook, leaving only the C++ codes and files related to these.**
