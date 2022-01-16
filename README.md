@@ -51,7 +51,7 @@ The main themes of each exercise are summarised below.
 <div class="alert alert-info" role="alert">
  
   <b>INFO</b> <br>
-  I strongly suggest **not restart the kernel** of jupyter-notebooks once downloaded, except in cases of extreme necessity.
+  I strongly suggest **not restart the kernel** of jupyter-notebooks once downloaded, except in cases of extreme necessity. <br>
   Instead I recommend running only the very first two Python code cells, which allow **to hide** the Python codes that follow 
   and display the images in the center of the Notebook. <br>
   In this way the reading of the jupyter-notebook is more orderly.
